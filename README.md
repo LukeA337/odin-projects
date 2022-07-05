@@ -1,3 +1,3 @@
 # odin-recipes
 
-Will be creating a recipes website
+This website provides several tasty breakfast recipes.
